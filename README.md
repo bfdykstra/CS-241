@@ -1,2 +1,3 @@
 # CS-241
-Data Structures
+
+A collection of various implementations of data structures including a python list, dictionary, matrices and other similar programs.
